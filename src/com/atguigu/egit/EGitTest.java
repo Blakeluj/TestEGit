@@ -5,5 +5,6 @@ public class EGitTest {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		System.out.println("This is a bad day!");
+		System.out.println("没话说！");
 	}
 }
