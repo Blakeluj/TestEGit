@@ -4,5 +4,6 @@ public class EGitTest {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
+		Sysout.out.println("Hello EGit!")
 	}
 }
